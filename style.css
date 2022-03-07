@@ -6,7 +6,7 @@ body {
     }
     .reverse {
     background-color: black !important;
-    color: white;
+    color: rgb(255, 102, 0);
     }
     p {
     padding: 20px;
