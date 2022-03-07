@@ -5,7 +5,7 @@ body {
     font-size: 14px;
     }
     .reverse {
-    background-color: black !important;
+    background-color: rgb(61, 61, 61) !important;
     color: rgb(255, 255, 255);
     }
     p {
